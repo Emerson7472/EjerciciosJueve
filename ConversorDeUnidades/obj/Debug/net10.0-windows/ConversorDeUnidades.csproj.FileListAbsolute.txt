@@ -1,0 +1,15 @@
+C:\Users\emels\RiderProjects\EjerciciosJueve\ConversorDeUnidades\bin\Debug\net10.0-windows\ConversorDeUnidades.exe
+C:\Users\emels\RiderProjects\EjerciciosJueve\ConversorDeUnidades\bin\Debug\net10.0-windows\ConversorDeUnidades.deps.json
+C:\Users\emels\RiderProjects\EjerciciosJueve\ConversorDeUnidades\bin\Debug\net10.0-windows\ConversorDeUnidades.runtimeconfig.json
+C:\Users\emels\RiderProjects\EjerciciosJueve\ConversorDeUnidades\bin\Debug\net10.0-windows\ConversorDeUnidades.dll
+C:\Users\emels\RiderProjects\EjerciciosJueve\ConversorDeUnidades\bin\Debug\net10.0-windows\ConversorDeUnidades.pdb
+C:\Users\emels\RiderProjects\EjerciciosJueve\ConversorDeUnidades\obj\Debug\net10.0-windows\ConversorDeUnidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emels\RiderProjects\EjerciciosJueve\ConversorDeUnidades\obj\Debug\net10.0-windows\ConversorDeUnidades.AssemblyInfoInputs.cache
+C:\Users\emels\RiderProjects\EjerciciosJueve\ConversorDeUnidades\obj\Debug\net10.0-windows\ConversorDeUnidades.AssemblyInfo.cs
+C:\Users\emels\RiderProjects\EjerciciosJueve\ConversorDeUnidades\obj\Debug\net10.0-windows\ConversorDeUnidades.csproj.CoreCompileInputs.cache
+C:\Users\emels\RiderProjects\EjerciciosJueve\ConversorDeUnidades\obj\Debug\net10.0-windows\ConversorDeUnidades.sourcelink.json
+C:\Users\emels\RiderProjects\EjerciciosJueve\ConversorDeUnidades\obj\Debug\net10.0-windows\ConversorDeUnidades.dll
+C:\Users\emels\RiderProjects\EjerciciosJueve\ConversorDeUnidades\obj\Debug\net10.0-windows\refint\ConversorDeUnidades.dll
+C:\Users\emels\RiderProjects\EjerciciosJueve\ConversorDeUnidades\obj\Debug\net10.0-windows\ConversorDeUnidades.pdb
+C:\Users\emels\RiderProjects\EjerciciosJueve\ConversorDeUnidades\obj\Debug\net10.0-windows\ConversorDeUnidades.genruntimeconfig.cache
+C:\Users\emels\RiderProjects\EjerciciosJueve\ConversorDeUnidades\obj\Debug\net10.0-windows\ref\ConversorDeUnidades.dll
