@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Asistencias" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Asistencias">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" type="xs:int" />
+                <xs:element name="Alumno" type="xs:string" minOccurs="0" />
+                <xs:element name="FechaHora" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Tipo" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Asistencias" />
+        <xs:field xpath="Id" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Asistencias>
+    <Id>1</Id>
+    <Alumno>María García</Alumno>
+    <FechaHora>2026-07-30T23:32:16.1754558-04:00</FechaHora>
+    <Tipo>Entrada</Tipo>
+  </Asistencias>
+  <Asistencias>
+    <Id>2</Id>
+    <Alumno>María García</Alumno>
+    <FechaHora>2026-07-30T23:32:19.1817109-04:00</FechaHora>
+    <Tipo>Salida</Tipo>
+  </Asistencias>
+  <Asistencias>
+    <Id>3</Id>
+    <Alumno>Enmanuel Rodroguez</Alumno>
+    <FechaHora>2026-07-30T23:32:38.5409856-04:00</FechaHora>
+    <Tipo>Entrada</Tipo>
+  </Asistencias>
+  <Asistencias>
+    <Id>15</Id>
+    <Alumno>Ana López</Alumno>
+    <FechaHora>2026-07-30T23:34:30.0067039-04:00</FechaHora>
+    <Tipo>Salida</Tipo>
+  </Asistencias>
+  <Asistencias>
+    <Id>16</Id>
+    <Alumno>Ana López</Alumno>
+    <FechaHora>2026-07-30T23:34:30.4489612-04:00</FechaHora>
+    <Tipo>Salida</Tipo>
+  </Asistencias>
+  <Asistencias>
+    <Id>17</Id>
+    <Alumno>Ana López</Alumno>
+    <FechaHora>2026-07-30T23:34:30.691737-04:00</FechaHora>
+    <Tipo>Entrada</Tipo>
+  </Asistencias>
+  <Asistencias>
+    <Id>18</Id>
+    <Alumno>Ana López</Alumno>
+    <FechaHora>2026-07-30T23:34:30.9017133-04:00</FechaHora>
+    <Tipo>Salida</Tipo>
+  </Asistencias>
+  <Asistencias>
+    <Id>19</Id>
+    <Alumno>Ana López</Alumno>
+    <FechaHora>2026-07-30T23:34:31.1282056-04:00</FechaHora>
+    <Tipo>Entrada</Tipo>
+  </Asistencias>
+</NewDataSet>

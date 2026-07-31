@@ -1,0 +1,15 @@
+C:\Users\emels\RiderProjects\EjerciciosJueve\RegistroDeClientes\bin\Debug\net10.0-windows\RegistroDeClientes.exe
+C:\Users\emels\RiderProjects\EjerciciosJueve\RegistroDeClientes\bin\Debug\net10.0-windows\RegistroDeClientes.deps.json
+C:\Users\emels\RiderProjects\EjerciciosJueve\RegistroDeClientes\bin\Debug\net10.0-windows\RegistroDeClientes.runtimeconfig.json
+C:\Users\emels\RiderProjects\EjerciciosJueve\RegistroDeClientes\bin\Debug\net10.0-windows\RegistroDeClientes.dll
+C:\Users\emels\RiderProjects\EjerciciosJueve\RegistroDeClientes\bin\Debug\net10.0-windows\RegistroDeClientes.pdb
+C:\Users\emels\RiderProjects\EjerciciosJueve\RegistroDeClientes\obj\Debug\net10.0-windows\RegistroDeClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emels\RiderProjects\EjerciciosJueve\RegistroDeClientes\obj\Debug\net10.0-windows\RegistroDeClientes.AssemblyInfoInputs.cache
+C:\Users\emels\RiderProjects\EjerciciosJueve\RegistroDeClientes\obj\Debug\net10.0-windows\RegistroDeClientes.AssemblyInfo.cs
+C:\Users\emels\RiderProjects\EjerciciosJueve\RegistroDeClientes\obj\Debug\net10.0-windows\RegistroDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\emels\RiderProjects\EjerciciosJueve\RegistroDeClientes\obj\Debug\net10.0-windows\RegistroDeClientes.sourcelink.json
+C:\Users\emels\RiderProjects\EjerciciosJueve\RegistroDeClientes\obj\Debug\net10.0-windows\RegistroDeClientes.dll
+C:\Users\emels\RiderProjects\EjerciciosJueve\RegistroDeClientes\obj\Debug\net10.0-windows\refint\RegistroDeClientes.dll
+C:\Users\emels\RiderProjects\EjerciciosJueve\RegistroDeClientes\obj\Debug\net10.0-windows\RegistroDeClientes.pdb
+C:\Users\emels\RiderProjects\EjerciciosJueve\RegistroDeClientes\obj\Debug\net10.0-windows\RegistroDeClientes.genruntimeconfig.cache
+C:\Users\emels\RiderProjects\EjerciciosJueve\RegistroDeClientes\obj\Debug\net10.0-windows\ref\RegistroDeClientes.dll
